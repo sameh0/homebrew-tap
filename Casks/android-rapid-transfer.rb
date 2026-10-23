@@ -1,6 +1,6 @@
 cask "android-rapid-transfer" do
-  version "1.0.0"
-  sha256 "c20411489a447aeeb8da71de330a0a670d8ee623afffa0ae60b7bb7a9d28d055"
+  version "1.0.1"
+  sha256 "08cc06e46f58bdd8e000c111defda89bcd711cf186f596eca5afb9bb5f52412f"
 
   url "https://github.com/sameh0/android-rapid-transfer/releases/download/#{version}/Android-Rapid-Transfer-#{version}.dmg"
   name "Android Rapid Transfer"
